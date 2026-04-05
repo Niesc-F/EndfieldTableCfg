@@ -1,0 +1,26 @@
+{
+  "kitestation_002_1": {
+    "rewardList": [
+      {
+        "collectionCnt": 1,
+        "kiteStation": "kitestation_002_1",
+        "rewardId": "reward_kitestation_milestone_jinlong_002_1"
+      },
+      {
+        "collectionCnt": 4,
+        "kiteStation": "kitestation_002_1",
+        "rewardId": "reward_kitestation_milestone_jinlong_002_2"
+      },
+      {
+        "collectionCnt": 8,
+        "kiteStation": "kitestation_002_1",
+        "rewardId": "reward_kitestation_milestone_jinlong_002_3"
+      },
+      {
+        "collectionCnt": 12,
+        "kiteStation": "kitestation_002_1",
+        "rewardId": "reward_kitestation_milestone_jinlong_002_4"
+      }
+    ]
+  }
+}
